@@ -32,6 +32,9 @@ section p {
 	text-align: center;
 	margin: 20px;
 }
+section #note {
+	font-size: 32px;
+}
 section h2 {
 	text-align: center;
 }
